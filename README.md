@@ -1,1 +1,0 @@
-# cdktf-typescript-lambda-cron
